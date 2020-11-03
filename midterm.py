@@ -1,5 +1,4 @@
-    #option 3, higher or lower card game with amount of rounds and elapsed time it took
-    #for players to win stored in an output file
+   
 def main():
     number = listOfCards("cards.txt")
 
