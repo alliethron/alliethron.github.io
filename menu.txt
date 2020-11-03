@@ -1,0 +1,27 @@
+Appetizers, Bruschetta, 8.00
+Appetizers, Samosa, 3.50
+Appetizers, House Salad, 5.00
+Appetizers, Hummus Plate, 7.50
+Appetizers, Baked Brie, 9.00
+Appetizers, Foccacia, 4.20
+Entrées, Linguine with grilled chicken and pesto, 16.00
+Entrées, Vegetarian taco platter, 12.00
+Entrées, Chicken taco platter, 13.50
+Entrées, Steak taco platter, 13.50
+Entrées, Margherita pizza, 11.50
+Entrées, Chicken tikka masala, 14.70
+Entrées, Tofu lettuce wraps, 13.00
+Entrées, Thai curry vegetables, 13.70
+Drinks, Mojito, 6.00
+Drinks, Margarita, 7.00
+Drinks, Domestic beer, 4.50
+Drinks, Pinot Grigio, 6.50
+Drinks, Green tea, 3.00
+Drinks, Soft drink, 2.50
+Drinks, Lemonade, 3.00
+Desserts, Tres leches, 5.70
+Desserts, Housemade coffee ice cream, 6.00
+Desserts, Housemade vanilla ice cream, 6.00
+Desserts, Chocolate strawberries, 8.00
+Desserts, Red velvet cake, 5.70
+Desserts, Guava pastry, 4.50
